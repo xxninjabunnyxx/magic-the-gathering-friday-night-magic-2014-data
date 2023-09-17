@@ -1,0 +1,17 @@
+---
+object: set
+id: ed1404ce-ac05-4d93-8283-163a50bfc9b5
+code: f14
+name: Friday Night Magic 2014
+uri: https://api.scryfall.com/sets/ed1404ce-ac05-4d93-8283-163a50bfc9b5
+scryfall_uri: https://scryfall.com/sets/f14
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Af14&unique=prints
+released_at: '2014-01-01'
+set_type: promo
+card_count: 12
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: fnm
+block: Friday Night Magic
+icon_svg_uri: https://svgs.scryfall.io/sets/star.svg?1694404800
